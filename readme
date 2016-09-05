@@ -1,0 +1,10 @@
+fitting - the algorithm for fitting pieces in a section
+images - images of the game in the swamp area
+solver - solver of the game in the swamp area(rotation and blue sqrs not yet supported)
+solver_v2 - solver with the addition of broken edges
+generator-v1 - generates puzzles using threads
+generator-v2 - generates puzzles using threads and a shared queue
+path_generator - given a set of paths S, it tries to create puzzles where S is a solution set
+sim_generator - generates a set of simultaneous puzzles
+name_paths - generates a DFS tree for all the paths, this way we can have an id for each path
+sequence_sum - generates all multisets that sum to n 

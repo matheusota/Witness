@@ -1,0 +1,22 @@
+For the 3x3 board with 3 pieces:
+
+total number of boards: 1161216
+number of boards that are solvable: 113296 (9.76%)
+number of boards with at least 2 solutions that have a different number of sections with pieces inside: 28880(2.49%)
+
+Each board can be addressed by two ids of 64 bits. So the space necessarily to store would be:
+total number of boards: 8.86 MB
+number of boards that are solvable: 0.86 MB
+number of boards with a different number of sections with pieces inside: 0.22 MB
+
+For the 4x4 board with 3 pieces:
+
+total number of boards: 7741440
+number of boards that are solvable: 5367102 (69.33%)
+number of boards with at least 2 solutions that have a different number of sections with pieces inside: 601530(7.77%)
+
+Each board can be addressed by two ids of 64 bits. So the space necessarily to store would be:
+total number of boards: 59.06 MB
+number of boards that are solvable: 40.95 MB
+number of boards with a different number of sections with pieces inside: 4.59 MB
+

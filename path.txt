@@ -1,0 +1,14 @@
+0: u u r u r d d d r u u u 
+1: u u r u r d d l d r r u u u 
+2: u u r u r d d r u u 
+3: u u r u r d r u 
+4: u u r u r r 
+5: r u l u r u r d d d r u u u 
+6: r u l u r u r d d r u u 
+7: r u l u r u r d r u 
+8: r u l u r u r r 
+9: r r u l l u r u r d r u 
+10: r r u l l u r u r r 
+11: r r r u u l d l l u r u r r 
+12: r r r u l l l u r u r d r u 
+13: r r r u l l l u r u r r 

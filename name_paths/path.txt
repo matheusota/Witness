@@ -1,0 +1,436 @@
+0: u u u u r d d d d r u u u u r d d d d r u u u u 
+1: u u u u r d d d d r u u u u r d d d r u u u 
+2: u u u u r d d d d r u u u u r d d r u u 
+3: u u u u r d d d d r u u u u r d r u 
+4: u u u u r d d d d r u u u u r r 
+5: u u u u r d d d d r u u u r u r 
+6: u u u u r d d d d r u u u r d d d r u u u u 
+7: u u u u r d d d d r u u u r d d r u u u 
+8: u u u u r d d d d r u u u r d r u u 
+9: u u u u r d d d d r u u u r r u 
+10: u u u u r d d d d r u u r u u r 
+11: u u u u r d d d d r u u r u l u r r 
+12: u u u u r d d d d r u u r u r u 
+13: u u u u r d d d d r u u r d d r u u u u 
+14: u u u u r d d d d r u u r d d r u u u l u r 
+15: u u u u r d d d d r u u r d d r u u u l l u r r 
+16: u u u u r d d d d r u u r d r u u u 
+17: u u u u r d d d d r u u r d r u u l u r 
+18: u u u u r d d d d r u u r d r u u l l u r r 
+19: u u u u r d d d d r u u r r u u 
+20: u u u u r d d d d r u u r r u l u r 
+21: u u u u r d d d d r u u r r u l l u r r 
+22: u u u u r d d d d r u r u u u r 
+23: u u u u r d d d d r u r u u l u r r 
+24: u u u u r d d d d r u r u u r u 
+25: u u u u r d d d d r u r u l u u r d r u 
+26: u u u u r d d d d r u r u l u u r r 
+27: u u u u r d d d d r u r u l u r u r 
+28: u u u u r d d d d r u r u l u r r u 
+29: u u u u r d d d d r u r u r u u 
+30: u u u u r d d d d r u r u r u l u r 
+31: u u u u r d d d d r u r u r u l l u r r 
+32: u u u u r d d d d r u r d r u u u u 
+33: u u u u r d d d d r u r d r u u u l u r 
+34: u u u u r d d d d r u r d r u u u l d l u u r r 
+35: u u u u r d d d d r u r d r u u u l l u r r 
+36: u u u u r d d d d r u r d r u u l u u r 
+37: u u u u r d d d d r u r d r u u l u l u r r 
+38: u u u u r d d d d r u r d r u u l u r u 
+39: u u u u r d d d d r u r d r u u l l u u r d r u 
+40: u u u u r d d d d r u r d r u u l l u u r r 
+41: u u u u r d d d d r u r d r u u l l u r u r 
+42: u u u u r d d d d r u r d r u u l l u r r u 
+43: u u u u r d d d d r u r r u u u 
+44: u u u u r d d d d r u r r u u l u r 
+45: u u u u r d d d d r u r r u u l d l u u r r 
+46: u u u u r d d d d r u r r u u l l u r r 
+47: u u u u r d d d d r u r r u l u u r 
+48: u u u u r d d d d r u r r u l u l u r r 
+49: u u u u r d d d d r u r r u l u r u 
+50: u u u u r d d d d r u r r u l l u u r d r u 
+51: u u u u r d d d d r u r r u l l u u r r 
+52: u u u u r d d d d r u r r u l l u r u r 
+53: u u u u r d d d d r u r r u l l u r r u 
+54: u u u u r d d d d r r u u u u r 
+55: u u u u r d d d d r r u u u l u r r 
+56: u u u u r d d d d r r u u u r u 
+57: u u u u r d d d d r r u u l u u r d r u 
+58: u u u u r d d d d r r u u l u u r r 
+59: u u u u r d d d d r r u u l u r u r 
+60: u u u u r d d d d r r u u l u r r u 
+61: u u u u r d d d d r r u u r u u 
+62: u u u u r d d d d r r u u r u l u r 
+63: u u u u r d d d d r r u u r u l l u r r 
+64: u u u u r d d d d r r u l u u u r d d r u u 
+65: u u u u r d d d d r r u l u u u r d r u 
+66: u u u u r d d d d r r u l u u u r r 
+67: u u u u r d d d d r r u l u u r u r 
+68: u u u u r d d d d r r u l u u r d r u u 
+69: u u u u r d d d d r r u l u u r r u 
+70: u u u u r d d d d r r u l u r u u r 
+71: u u u u r d d d d r r u l u r u l u r r 
+72: u u u u r d d d d r r u l u r u r u 
+73: u u u u r d d d d r r u l u r r u u 
+74: u u u u r d d d d r r u l u r r u l u r 
+75: u u u u r d d d d r r u l u r r u l l u r r 
+76: u u u u r d d d d r r u r u u u 
+77: u u u u r d d d d r r u r u u l u r 
+78: u u u u r d d d d r r u r u u l d l u u r r 
+79: u u u u r d d d d r r u r u u l l u r r 
+80: u u u u r d d d d r r u r u l u u r 
+81: u u u u r d d d d r r u r u l u l u r r 
+82: u u u u r d d d d r r u r u l u r u 
+83: u u u u r d d d d r r u r u l l u u r d r u 
+84: u u u u r d d d d r r u r u l l u u r r 
+85: u u u u r d d d d r r u r u l l u r u r 
+86: u u u u r d d d d r r u r u l l u r r u 
+87: u u u u r d d d d r r r u u u u 
+88: u u u u r d d d d r r r u u u l u r 
+89: u u u u r d d d d r r r u u u l d d l u u u r r 
+90: u u u u r d d d d r r r u u u l d l u u r r 
+91: u u u u r d d d d r r r u u u l l u r r 
+92: u u u u r d d d d r r r u u l u u r 
+93: u u u u r d d d d r r r u u l u l u r r 
+94: u u u u r d d d d r r r u u l u r u 
+95: u u u u r d d d d r r r u u l d l u u u r d r u 
+96: u u u u r d d d d r r r u u l d l u u u r r 
+97: u u u u r d d d d r r r u u l d l u u r u r 
+98: u u u u r d d d d r r r u u l d l u u r r u 
+99: u u u u r d d d d r r r u u l l u u r d r u 
+100: u u u u r d d d d r r r u u l l u u r r 
+101: u u u u r d d d d r r r u u l l u r u r 
+102: u u u u r d d d d r r r u u l l u r r u 
+103: u u u u r d d d d r r r u l u u u r 
+104: u u u u r d d d d r r r u l u u l u r r 
+105: u u u u r d d d d r r r u l u u r u 
+106: u u u u r d d d d r r r u l u l u u r d r u 
+107: u u u u r d d d d r r r u l u l u u r r 
+108: u u u u r d d d d r r r u l u l u r u r 
+109: u u u u r d d d d r r r u l u l u r r u 
+110: u u u u r d d d d r r r u l u r u u 
+111: u u u u r d d d d r r r u l u r u l u r 
+112: u u u u r d d d d r r r u l u r u l l u r r 
+113: u u u u r d d d d r r r u l l u u u r d d r u u 
+114: u u u u r d d d d r r r u l l u u u r d r u 
+115: u u u u r d d d d r r r u l l u u u r r 
+116: u u u u r d d d d r r r u l l u u r u r 
+117: u u u u r d d d d r r r u l l u u r d r u u 
+118: u u u u r d d d d r r r u l l u u r r u 
+119: u u u u r d d d d r r r u l l u r u u r 
+120: u u u u r d d d d r r r u l l u r u l u r r 
+121: u u u u r d d d d r r r u l l u r u r u 
+122: u u u u r d d d d r r r u l l u r r u u 
+123: u u u u r d d d d r r r u l l u r r u l u r 
+124: u u u u r d d d d r r r u l l u r r u l l u r r 
+125: u u u r d d r d r u u u u r 
+126: u u u r d d r d r u u u l u r r 
+127: u u u r d d r d r u u u r u 
+128: u u u r d d r d r u u l u u r d r u 
+129: u u u r d d r d r u u l u u r r 
+130: u u u r d d r d r u u l u r u r 
+131: u u u r d d r d r u u l u r r u 
+132: u u u r d d r d r u u r u u 
+133: u u u r d d r d r u u r u l u r 
+134: u u u r d d r d r u u r u l l u r r 
+135: u u u r d d r d r u r u u u 
+136: u u u r d d r d r u r u u l u r 
+137: u u u r d d r d r u r u u l d l u u r r 
+138: u u u r d d r d r u r u u l l u r r 
+139: u u u r d d r d r u r u l u u r 
+140: u u u r d d r d r u r u l u l u r r 
+141: u u u r d d r d r u r u l u r u 
+142: u u u r d d r d r u r u l l u u r d r u 
+143: u u u r d d r d r u r u l l u u r r 
+144: u u u r d d r d r u r u l l u r u r 
+145: u u u r d d r d r u r u l l u r r u 
+146: u u u r d d r d r r u u u u 
+147: u u u r d d r d r r u u u l u r 
+148: u u u r d d r d r r u u u l d l u u r r 
+149: u u u r d d r d r r u u u l l u r r 
+150: u u u r d d r d r r u u l u u r 
+151: u u u r d d r d r r u u l u l u r r 
+152: u u u r d d r d r r u u l u r u 
+153: u u u r d d r d r r u u l l u u r d r u 
+154: u u u r d d r d r r u u l l u u r r 
+155: u u u r d d r d r r u u l l u r u r 
+156: u u u r d d r d r r u u l l u r r u 
+157: u u u r d d r d r r u l u u u r 
+158: u u u r d d r d r r u l u u l u r r 
+159: u u u r d d r d r r u l u u r u 
+160: u u u r d d r d r r u l u l u u r d r u 
+161: u u u r d d r d r r u l u l u u r r 
+162: u u u r d d r d r r u l u l u r u r 
+163: u u u r d d r d r r u l u l u r r u 
+164: u u u r d d r d r r u l u r u u 
+165: u u u r d d r d r r u l u r u l u r 
+166: u u u r d d r d r r u l u r u l l u r r 
+167: u u u r d r d l d r r u u u u r 
+168: u u u r d r d l d r r u u u l u r r 
+169: u u u r d r d l d r r u u u r u 
+170: u u u r d r d l d r r u u r u u 
+171: u u u r d r d l d r r u u r u l u r 
+172: u u u r d r d l d r r u u r u l l u r r 
+173: u u u r d r d l d r r u r u u u 
+174: u u u r d r d l d r r u r u u l u r 
+175: u u u r d r d l d r r u r u u l l u r r 
+176: u u u r d r d l d r r u r u l u u r 
+177: u u u r d r d l d r r u r u l u l u r r 
+178: u u u r d r d l d r r u r u l u r u 
+179: u u u r d r d l d r r r u u u u 
+180: u u u r d r d l d r r r u u u l u r 
+181: u u u r d r d l d r r r u u u l l u r r 
+182: u u u r d r d l d r r r u u l u u r 
+183: u u u r d r d l d r r r u u l u l u r r 
+184: u u u r d r d l d r r r u u l u r u 
+185: u u u r d r d l d r r r u l u u u r 
+186: u u u r d r d l d r r r u l u u l u r r 
+187: u u u r d r d l d r r r u l u u r u 
+188: u u u r d r d l d r r r u l u r u u 
+189: u u u r d r d l d r r r u l u r u l u r 
+190: u u u r d r d l d r r r u l u r u l l u r r 
+191: u u u r r d l d d r u r u u u r 
+192: u u u r r d l d d r u r u u r u 
+193: u u u r r d l d d r u r u r u u 
+194: u u u r r d l d d r u r u r u l u r 
+195: u u u r r d l d d r u r d r u u u u 
+196: u u u r r d l d d r u r d r u u u l u r 
+197: u u u r r d l d d r u r d r u u l u u r 
+198: u u u r r d l d d r u r d r u u l u r u 
+199: u u u r r d l d d r u r r u u u 
+200: u u u r r d l d d r u r r u u l u r 
+201: u u u r r d l d d r u r r u l u u r 
+202: u u u r r d l d d r u r r u l u r u 
+203: u u u r r d l d d r r u u u u r 
+204: u u u r r d l d d r r u u u r u 
+205: u u u r r d l d d r r u u r u u 
+206: u u u r r d l d d r r u u r u l u r 
+207: u u u r r d l d d r r u r u u u 
+208: u u u r r d l d d r r u r u u l u r 
+209: u u u r r d l d d r r u r u l u u r 
+210: u u u r r d l d d r r u r u l u r u 
+211: u u u r r d l d d r r r u u u u 
+212: u u u r r d l d d r r r u u u l u r 
+213: u u u r r d l d d r r r u u l u u r 
+214: u u u r r d l d d r r r u u l u r u 
+215: u u u r r d l d d r r r u l u u u r 
+216: u u u r r d l d d r r r u l u u r u 
+217: u u u r r d l d d r r r u l u r u u 
+218: u u u r r d l d d r r r u l u r u l u r 
+219: u r u u r u r d d d d r u u u u 
+220: u r u u r u r d d d l d r r u u u u 
+221: u r u u r u r d d d r u u u 
+222: u r u u r u r d d l d d r u r u u u 
+223: u r u u r u r d d l d d r r u u u u 
+224: u r u u r u r d d l d r d r u u u u 
+225: u r u u r u r d d l d r r u u u 
+226: u r u u r u r d d r u u 
+227: u r u u r u r d r u 
+228: u r u u r u r r 
+229: u r u r u l u r r d d d d r u u u u 
+230: u r u r u l u r r d d d l d r r u u u u 
+231: u r u r u l u r r d d d r u u u 
+232: u r u r u l u r r d d r u u 
+233: u r u r u l u r r d r u 
+234: u r u r u l u r r r 
+235: u r r u l u u r d r u r 
+236: u r r u l u u r d r d d d r u u u u 
+237: u r r u l u u r d r d d r u u u 
+238: u r r u l u u r d r d r u u 
+239: u r r u l u u r d r r u 
+240: u r r u l u u r r d d d d r u u u u 
+241: u r r u l u u r r d d d r u u u 
+242: u r r u l u u r r d d r u u 
+243: u r r u l u u r r d r u 
+244: u r r u l u u r r r 
+245: r u u u u r d d d d r u u u u r 
+246: r u u u u r d d d d r u u u r u 
+247: r u u u u r d d d d r u u r u u 
+248: r u u u u r d d d d r u u r u l u r 
+249: r u u u u r d d d d r u r u u u 
+250: r u u u u r d d d d r u r u u l u r 
+251: r u u u u r d d d d r u r u l u u r 
+252: r u u u u r d d d d r u r u l u r u 
+253: r u u u u r d d d d r r u u u u 
+254: r u u u u r d d d d r r u u u l u r 
+255: r u u u u r d d d d r r u u l u u r 
+256: r u u u u r d d d d r r u u l u r u 
+257: r u u u u r d d d d r r u l u u u r 
+258: r u u u u r d d d d r r u l u u r u 
+259: r u u u u r d d d d r r u l u r u u 
+260: r u u u u r d d d d r r u l u r u l u r 
+261: r u u u u r d d d r u u u r 
+262: r u u u u r d d d r u u r u 
+263: r u u u u r d d d r u r u u 
+264: r u u u u r d d d r u r u l u r 
+265: r u u u u r d d d r d r u u u u 
+266: r u u u u r d d d r d r u u u l u r 
+267: r u u u u r d d d r d r u u l u u r 
+268: r u u u u r d d d r d r u u l u r u 
+269: r u u u u r d d d r r u u u 
+270: r u u u u r d d d r r u u l u r 
+271: r u u u u r d d d r r u l u u r 
+272: r u u u u r d d d r r u l u r u 
+273: r u u u u r d d r u u r 
+274: r u u u u r d d r u r u 
+275: r u u u u r d d r d d r u u u u 
+276: r u u u u r d d r d d r u u u l u r 
+277: r u u u u r d d r d l d r r u u u u 
+278: r u u u u r d d r d l d r r u u u l u r 
+279: r u u u u r d d r d r u u u 
+280: r u u u u r d d r d r u u l u r 
+281: r u u u u r d d r r u u 
+282: r u u u u r d d r r u l u r 
+283: r u u u u r d r u r 
+284: r u u u u r d r d d d r u u u u 
+285: r u u u u r d r d d l d r r u u u u 
+286: r u u u u r d r d d r u u u 
+287: r u u u u r d r d l d d r u r u u u 
+288: r u u u u r d r d l d d r r u u u u 
+289: r u u u u r d r d l d r d r u u u u 
+290: r u u u u r d r d l d r r u u u 
+291: r u u u u r d r d r u u 
+292: r u u u u r d r r u 
+293: r u u u u r r d d d d r u u u u 
+294: r u u u u r r d d d l d r r u u u u 
+295: r u u u u r r d d d r u u u 
+296: r u u u u r r d d l d d r u r u u u 
+297: r u u u u r r d d l d d r r u u u u 
+298: r u u u u r r d d l d r d r u u u u 
+299: r u u u u r r d d l d r r u u u 
+300: r u u u u r r d d r u u 
+301: r u u u u r r d l d d d r u u r u u 
+302: r u u u u r r d l d d d r u r u u u 
+303: r u u u u r r d l d d d r r u u u u 
+304: r u u u u r r d l d d d r r u l u r u u 
+305: r u u u u r r d l d d r u r u u 
+306: r u u u u r r d l d d r d r u u u u 
+307: r u u u u r r d l d d r r u u u 
+308: r u u u u r r d l d r d d r u u u u 
+309: r u u u u r r d l d r d l d r r u u u u 
+310: r u u u u r r d l d r d r u u u 
+311: r u u u u r r d l d r r u u 
+312: r u u u u r r d r u 
+313: r u u u u r r r 
+314: r u u r u l l u r r r d d d d r u u u u 
+315: r u u r u l l u r r r d d d l d r r u u u u 
+316: r u u r u l l u r r r d d d r u u u 
+317: r u u r u l l u r r r d d r u u 
+318: r u u r u l l u r r r d r u 
+319: r u u r u l l u r r r r 
+320: r u r u l u l u r r d r u r 
+321: r u r u l u l u r r d r d d d r u u u u 
+322: r u r u l u l u r r d r d d r u u u 
+323: r u r u l u l u r r d r d r u u 
+324: r u r u l u l u r r d r r u 
+325: r u r u l u l u r r r d d d d r u u u u 
+326: r u r u l u l u r r r d d d r u u u 
+327: r u r u l u l u r r r d d r u u 
+328: r u r u l u l u r r r d r u 
+329: r u r u l u l u r r r r 
+330: r r u l u u l u r r d d r u u r 
+331: r r u l u u l u r r d d r u r u 
+332: r r u l u u l u r r d d r d d r u u u u 
+333: r r u l u u l u r r d d r d d r u u u l u r 
+334: r r u l u u l u r r d d r d r u u u 
+335: r r u l u u l u r r d d r d r u u l u r 
+336: r r u l u u l u r r d d r r u u 
+337: r r u l u u l u r r d d r r u l u r 
+338: r r u l u u l u r r d r u r 
+339: r r u l u u l u r r d r d d d r u u u u 
+340: r r u l u u l u r r d r d d r u u u 
+341: r r u l u u l u r r d r d r u u 
+342: r r u l u u l u r r d r r u 
+343: r r u l u u l u r r r d d d d r u u u u 
+344: r r u l u u l u r r r d d d r u u u 
+345: r r u l u u l u r r r d d r u u 
+346: r r u l u u l u r r r d l d r d d r u u u u 
+347: r r u l u u l u r r r d l d r d r u u u 
+348: r r u l u u l u r r r d l d r r u u 
+349: r r u l u u l u r r r d r u 
+350: r r u l u u l u r r r r 
+0: u u u r d d d r u r u u 
+1: u u u r d d d r r u u u 
+2: u u u r d r d r u u 
+3: u u r u r d d r u u 
+4: u u r d d r r u u l u r 
+5: u u r r r u 
+6: u r u u r d r u 
+7: u r u r u r 
+8: u r d r r u u l l u r r 
+9: u r d r r u l u u r 
+10: r u u u r r 
+11: r u u l u r r d r u 
+12: r u l u u r d r r u 
+13: r u l u u r r d d r u u 
+14: r u l u r u r d r u 
+15: r u l u r r u r 
+16: r r u r u l l l u r r r 
+17: r r r u u l l l u r r r 
+18: r r r u l u l u r r 
+0: u u r d d r u u u r 
+1: u u r d d r u u r u 
+2: u u r d d r u r u u 
+3: u u r d d r u r u l u r 
+4: u u r d d r r u u u 
+5: u u r d d r r u u l u r 
+6: u u r d d r r u l u u r 
+7: u u r d d r r u l u r u 
+8: u r u u r d d d r u u u 
+9: u r u u r d d r u u 
+10: u r u u r d r u 
+11: u r u u r r 
+12: r u u l u r r d d d r u u u 
+13: r u u l u r r d d r u u 
+14: r u u l u r r d r u 
+15: r u u l u r r r 
+0: u u r u r d d d r u u u 
+1: u u r u r d d l d r r u u u 
+2: u u r u r d d r u u 
+3: u u r u r d r u 
+4: u u r u r r 
+5: r u l u r u r d d d r u u u 
+6: r u l u r u r d d r u u 
+7: r u l u r u r d r u 
+8: r u l u r u r r 
+9: r r u l l u r u r d r u 
+10: r r u l l u r u r r 
+11: r r r u u l d l l u r u r r 
+12: r r r u l l l u r u r d r u 
+13: r r r u l l l u r u r r 
+0: u u r u r d d d r u u u 
+1: u u r u r d d l d r r u u u 
+2: u u r u r d d r u u 
+3: u u r u r d r u 
+4: u u r u r r 
+5: r u l u r u r d d d r u u u 
+6: r u l u r u r d d r u u 
+7: r u l u r u r d r u 
+8: r u l u r u r r 
+9: r r u l l u r u r d r u 
+10: r r u l l u r u r r 
+11: r r r u u l d l l u r u r r 
+12: r r r u l l l u r u r d r u 
+13: r r r u l l l u r u r r 
+0: u u u r r d d d r u u u 
+1: u u r u r d d r u u 
+2: u r u u r d d d r u u u 
+3: r u u r d r u u 
+4: r u r u r u 
+5: r u r r u l u r 
+6: r r u u u r 
+0: u u u r d d d r u r u u 
+1: u u u r d d d r u r u l u r 
+2: u u u r d d r d r u u u 
+3: u u u r d d r d r u u l u r 
+4: u u u r r d l d d r r u u u 
+5: u u r d r r u u 
+6: u u r d r r u l u r 
+7: r u u r u r 
+8: r r u l u u r d r u 
+9: r r u l u u r r 
+10: r r r u l l u l u r r d r u 
+11: r r r u l l u l u r r r 
+12: r r r u l l l u u r d r u r 
+13: r r r u l l l u r u r d r u 
+14: r r r u l l l u r u r r 

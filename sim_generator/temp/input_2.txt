@@ -1,0 +1,13 @@
+4 4
+3
+3 0
+0 3
+7
+1
+u u r d d r u r u l u r 
+u u r d r d r u u l u r 
+u u r d r r u u 
+u r r r u l u r 
+r r u l u l u r r d r u 
+r r r u l l u l u r r r 
+r r r u l l l u u r r d r u 
